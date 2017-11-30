@@ -1477,14 +1477,65 @@ https://www.zhihu.com/question/25369412
 https://www.zhihu.com/question/35453511?sort=created
 
 
+2017.11.10 微信分享绕过分享对比
+http://blog.csdn.net/gf771115/article/details/44858007
+
+2017.11.16 极光的APPKey
+
+名将萌萌消_值尚
+b71154b87a22c9749a82d1da
+名将萌萌消_360
+9e398af92e042eaef7a4e63f
+名将萌萌消_百度
+425bfb357e011a7c3493ff06
+名将萌萌消_阿里
+e6290f5a71214a0eeb3a20eb
+名将萌萌消_应用宝
+fc46ad1313a621a175abb19a
+名将萌萌消_小米
+fc2f29d369369bf8c0a78681
+名将萌萌消_华为
+4571dc3fe69f75f0d27466d4
+名将萌萌消_vivo
+84b2889c804783345e2150da
+名将萌萌消_oppo
+3d24ef0ccefcd3b0f7a483f6
+名将萌萌消_魅族
+5dbfd33d3ebd0433ae08c7e0
+名将萌萌消_金立
+ec022362b32fbbab8ea94a8b
+名将萌萌消_酷派
+3bf20efa6c549ad645e66733
+名将萌萌消_wei联想
+9687e74cfdadd72f07c91bda
+名将萌萌消-斗鱼
+c406835a04a3a054338e8732
+
+2017.11.21
+返回键
+outIngame
+微信activity
 
 
+2017.11.23
+需要建立一个微信分享的jar
+整理打包流程
 
+2017.11.24
+阿里的登录账户有问题--待查
+计费点问题
 
+2017.11.30
+u3d 安卓加密dll和热更
 
+http://www.luzexi.com/unity3d/%E6%B8%B8%E6%88%8F%E6%9E%B6%E6%9E%84/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/2015/04/11/Unity3D-%E9%87%8D%E6%96%B0%E7%BC%96%E8%AF%91Mono%E5%8A%A0%E5%AF%86DLL.html
 
+http://blog.csdn.net/qq_27772057/article/details/51945700
 
+http://blog.csdn.net/u011643833/article/details/47261015
 
+//选择对应的mono版本
+https://github.com/Unity-Technologies/mono/releases?after=mono-4.4.0.122
 
 
 
