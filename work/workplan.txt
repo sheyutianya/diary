@@ -1538,7 +1538,8 @@ http://blog.csdn.net/u011643833/article/details/47261015
 https://github.com/Unity-Technologies/mono/releases?after=mono-4.4.0.122
 
 
-
+关于u3d接入sdk的说明
+http://www.cnblogs.com/programmer-kaima/p/5816436.html
 
 
 
