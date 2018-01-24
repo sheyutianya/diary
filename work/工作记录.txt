@@ -751,3 +751,9 @@ http://blog.csdn.net/u010483016/article/details/50401605
 https://weibo.com/819881121?from=feed&loc=nickname&is_all=1&is_search=1&key_word=%E7%AC%A6%E5%8F%B7%E8%A1%A8#_0
 
 
+http://120.76.26.8:7005/admin //安卓公测服
+http://47.88.3.212:7005/admin //提审服
+
+http://112.74.36.19:18080/admin//安卓内测服
+
+http://120.76.24.84:7005/admin //值尚正式服
