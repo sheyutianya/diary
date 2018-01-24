@@ -1543,6 +1543,34 @@ http://www.cnblogs.com/programmer-kaima/p/5816436.html
 
 
 
+2017.12.09
+给大家推荐一个分析安卓闪退的方法、我也是观察这部分一段时间了。
+1.如果项目在用mono  其实unity现在已经带了符号表的.so 可以直接分析出闪退在mono的哪一行代码。
+我们通过一段时间的测试发现il2cpp稳定性好一些。因为我把项目从mono改成il2cpp 项目闪退明显少很多了。
+
+2.推荐项目用il2cpp 
+稳定性好，最重要的是unity会把所有我们自己写的c#代码变成.so 这样如果由于我们在c#代码引起的闪退，通过打包生成的带符号表的.so就可以分析出引起闪退的地方。
+
+我们项目现在是每次打包，自动把中间生成的il2cpp的debug.so保存下来。 用于日后分析堆栈。欢迎大家一次测试
+
+Unity带符号表的.so
+通过闪退日志还原堆栈的方法
+https://support.unity3d.com/hc/en-us/articles/115000292166-Symbolicate-Android-crash
+
+Il2cpp每次打包中间过程生成c# 符号表的.so
+https://support.unity3d.com/hc/en-us/articles/115000177543-Where-I-can-get-the-symbols-file-for-the-libil2cpp-so-library-in-an-Android-IL2CPP-build-to-symbolicate-call-stacks-from-crashes-on-my-production-builds-
+
+2017.12.11
+项目开始使用IL2CPP编译，后果是可执行文件急剧增加。
+
+google后发现国外一大神写的方法，原帖在这http://forum.unity3d.com/threads/suggestion-for-reducing-the-size-of-il2cpp-generated-executable.338986/
+
+懒得愿意看原帖的直接看我的方法吧
+
+2017.12.13
+http://blog.csdn.net/dupengchuan/article/details/51285371
+
+
 
 
 
